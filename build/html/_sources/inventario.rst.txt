@@ -1,0 +1,4 @@
+Inventario
+==========
+
+Aquí va la documentación del módulo de inventario.

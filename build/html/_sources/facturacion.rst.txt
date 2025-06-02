@@ -1,0 +1,4 @@
+Facturación
+===========
+
+Aquí va la documentación del módulo de facturación.

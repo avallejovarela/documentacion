@@ -1,0 +1,13 @@
+Modulos del sistema
+===================
+
+Aqui puedes describir los modulos de tu sistema, por ejemplo:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Modulos del sistema
+
+   clientes
+   inventario
+   facturacion
+
